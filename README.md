@@ -1,5 +1,5 @@
 # cd first-scene
-# npm intstall
+# npm install
 # npm run dev
 
 # React + Vite
